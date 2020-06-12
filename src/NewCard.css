@@ -1,0 +1,8 @@
+.NewCard{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left:750px;
+    margin-top: 100px;
+    /* transform: translate(10px,20px) rotate(20deg); */
+}

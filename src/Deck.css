@@ -1,0 +1,27 @@
+.cards{
+    /* display: flex;
+    margin:10px;
+    flex-wrap: wrap; */
+}
+.btn{
+    padding: 10px;
+    margin-left: 44%;
+    margin-bottom: 40px;
+    border : 0px solid;
+    border-radius: 12px;
+    font-family: 'Metal Mania', cursive;
+    font-size: 45px;
+    background-color: greenyellow;
+}
+.btn:hover{
+    background-color: hotpink;
+}
+body{
+    background-color: green;
+}
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+.h1{
+    font-family: 'Metal Mania', cursive;
+    text-align: center;
+    font-size: 80px;
+}
